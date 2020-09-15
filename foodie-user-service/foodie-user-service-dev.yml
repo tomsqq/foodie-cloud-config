@@ -1,6 +1,6 @@
 # 数据库连接串 & 密码
 mariadb:
-  url: 'jdbc:mysql://192.168.1.165:8066/foodie-shop?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=Asia/Shanghai'
+  url: 'jdbc:mysql://192.168.1.165:3306/foodie-shop?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=UTC'
   password: 'welcome1'
 
 # 功能开关 - 开启/关闭注册功能
